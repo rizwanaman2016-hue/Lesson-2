@@ -1,0 +1,6 @@
+print("By Rizwan")
+print("Welcome to the Python program!")
+print(4)
+print("Hello World \n")
+print("hello",5)
+print("welcom to *")
